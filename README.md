@@ -8,6 +8,9 @@ Full Stack Developer specialized in mobile & backend, building products that shi
 🌍 Based in Algeria, open to remote international opportunities
 💬 Ask me about Flutter, Kotlin Multiplatform, Spring Boot, or self-hosted infra with Docker/Coolify
 📫 Reach me via my portfolio
+
+
+
 🛠 Technical Skills
 
 Mobile: Flutter, Kotlin Multiplatform, Jetpack Compose, Compose Multiplatform, Native Android, Kotlin, Dart, Coroutines, Reactive Programming, BLoC, Multi-Module Architecture, Offline-First and Caching
